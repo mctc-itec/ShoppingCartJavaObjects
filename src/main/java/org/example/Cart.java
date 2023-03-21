@@ -28,7 +28,7 @@ public class Cart {
     public void addItem(CartItem newItem) {
         // TODO does the user already have that item in their cart?
         //  For example, user has already ordered a hat. If they order another hat,
-        //  find the existing het item in the items and increase the quantity of that item by 1
+        //  find the existing hat item in the items and increase the quantity of that item by 1
         //  instead of adding a new hat. You could use the changeItemQuantity method!
         items.add(newItem);
     }
