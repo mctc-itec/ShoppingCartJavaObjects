@@ -38,4 +38,6 @@ public class Cart {
             System.out.println(item);
         }
     }
+
+    // TODO calculate total price of everything in cart
 }
